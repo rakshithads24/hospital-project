@@ -1,3 +1,7 @@
 bug fixed
+<<<<<<< HEAD
 add text
 local change
+=======
+change from github
+>>>>>>> 091e78fe6d84604713469292877d090594752c67
