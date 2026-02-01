@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 bug fixed
 <<<<<<< HEAD
 add text
 local change
 =======
+=======
+GITHUB VERSION
+>>>>>>> 5cee2df0c46789d67e23e509d5db37f2325ee7e3
 change from github
 >>>>>>> 091e78fe6d84604713469292877d090594752c67
